@@ -1,4 +1,4 @@
-{
+[{
   "id": "update-v1.6.0",
   "type": "info",
   "date": "2026-09-12T10:45:14.936Z",
@@ -6,7 +6,7 @@
     "ja": {
       "title": "どんぐりころころ",
       "summary": "お池にはまってさあ大変！？",
-      "content": "# LzPvPがでてきてこんにちは\n## Cirrus一緒にていけいしよー！"
+      "content": "# [LzPvP](https://discord.gg/tDMaQfr5z)がでてきてこんにちは\n## [Cirrus](https://discord.gg/2sBVR5UQv)一緒にていけいしよー！\n(こちら側から提案をさせていただきました)"
     }
   }
 },
@@ -27,3 +27,4 @@
     }
   }
 }
+]
