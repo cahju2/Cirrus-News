@@ -1,4 +1,16 @@
 {
+  "id": "update-v1.6.0",
+  "type": "info",
+  "date": "2026-09-12T10:45:14.936Z",
+  "translations": {
+    "ja": {
+      "title": "どんぐりころころ",
+      "summary": "お池にはまってさあ大変！？",
+      "content": "# LzPvPがでてきてこんにちは\n## Cirrus一緒にていけいしよー！"
+    }
+  }
+},
+{
   "id": "alert-1",
   "type": "alert",
   "date": "2026-09-12T10:36:26.926Z",
