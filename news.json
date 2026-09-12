@@ -1,20 +1,15 @@
 {
-  "news": [
-    {
-      "id": "cirrus-client-v1-5-0",
-      "type": "update",
-      "date": "2026-09-12T12:00:00Z",
-      "title": "Cirrus Launcher v1.5.0",
-      "summary": "ニュース機能の搭載や、パフォーマンスの向上などを含む大型アップデートです。",
-      "content": "## Cirrus Launcher v1.5.0\n\n今回のアップデートでは、新たに**ニュース機能**が搭載されました！\n\n- これにより、ランチャー上から直接最新のパッチノートやイベント情報を確認できるようになります。\n- ニュース内のリンク（例: [Cirrus公式GitHub](https://github.com/Cajuut/ClouFi_Launcher)）もクリックして直接ブラウザで開けます。\n\n引き続きCirrus Clientをお楽しみください！"
+  "id": "Alert-1",
+  "type": "alert",
+  "date": "2026-09-12T10:21:24.496Z",
+  "translations": {
+    "ja": {
+      "title": "Freelook使用時に座標が不正に移動する問題を確認",
+      "summary": "Freelook使用時の視点移動に伴い、プレイヤーの座標が不正に移動し、Flyなどの不正な移動が可能になるケースを確認しました。"
     },
-    {
-      "id": "welcome-cirrus",
-      "type": "info",
-      "date": "2026-09-10T12:00:00Z",
-      "title": "Cirrus Launcherへようこそ！",
-      "summary": "次世代のMinecraftクライアントへようこそ。UIのカスタマイズや簡単なMOD管理を提供します。",
-      "content": "Cirrus Launcherをダウンロードしていただきありがとうございます。\n\nバグ報告や機能要望は、GitHubのIssueからお願いいたします！"
+    "en": {
+      "title": "An issue causing incorrect player movement when using Freelook has been discovered",
+      "summary": "An issue has been discovered where using Freelook can cause the player's coordinates to move incorrectly, potentially allowing movement exploits such as Fly."
     }
-  ]
+  }
 }
