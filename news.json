@@ -4,26 +4,9 @@
   "date": "2026-09-12T10:45:14.936Z",
   "translations": {
     "ja": {
-      "title": "どんぐりころころ",
-      "summary": "お池にはまってさあ大変！？",
-      "content": "# [LzPvP](https://discord.gg/tDMaQfr5z)がでてきてこんにちは\n## [Cirrus](https://discord.gg/2sBVR5UQv)一緒にていけいしよー！\n(こちら側から提案をさせていただきました)"
-    }
-  }
-},
-{
-  "id": "alert-1",
-  "type": "alert",
-  "date": "2026-09-12T10:36:26.926Z",
-  "translations": {
-    "ja": {
-      "title": "Freelook使用時に座標が不正に移動する問題を確認",
-      "summary": "Freelook使用時の視点移動に伴い、プレイヤーの座標が不正に移動し、Flyなどの不正な移動が可能になるケースを確認しました。",
-      "content": "## 概要\n\nFreelookを使用している際、視点を移動させたタイミングでプレイヤーの座標が本来とは異なる位置へ移動する問題が確認されました。\n\nこの問題は、特に**サーバーに高い負荷がかかっている環境**や、**サーバー側のアンチチート（AC）が無効化・弱体化されている環境**で発生しやすいことを確認しています。\n\nこれまではクライアントに組み込まれているアンチチートによって一定の範囲で防止されていましたが、サーバー側の負荷が高い状態で、サーバーのアンチチートによる判定が弱くなった場合に問題が発生するケースがありました。\n\n現在、原因の調査および修正を進めています。\n\n### 発見者\n\n**すざく（Discord: `sena_27702`）**\n"
-    },
-    "en": {
-      "title": "An issue causing incorrect player movement when using Freelook has been discovered",
-      "summary": "An issue has been discovered where using Freelook can cause the player's coordinates to move incorrectly, potentially allowing movement exploits such as Fly.",
-      "content": "## Overview\n\nWe have confirmed an issue where moving the camera while using Freelook can cause the player's coordinates to be moved to an unintended position.\n\nThis issue has been observed primarily in environments where the **server is under heavy load** or where the **server-side anti-cheat (AC) is disabled or weakened**.\n\nThe issue was previously prevented to some extent by the anti-cheat built into the client. However, when the server is under heavy load, the server-side anti-cheat may lower its detection strength, which can allow this issue to occur.\n\nWe are currently investigating the cause of the issue and working on a fix.\n\n### Discovered by\n\n**Suzaku (Discord: `sena_27702`)**\n"
+      "title": "First Release",
+      "summary": "たのしいね",
+      "content": "いえい"
     }
   }
 }
